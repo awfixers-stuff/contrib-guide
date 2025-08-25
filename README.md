@@ -10,4 +10,4 @@ one thing that a lot of people are going to ask me is 'why is this hosted on Git
 
 
 
-for more developer focused documenation, including using our products in your products, we will post that over [here](https://developers.awfixer.com/?contibe-guide)
+for more developer focused documenation, including using our products in your products, we will post that over [here](https://developers.awfixer.com/base/base/?ref=contibe-guide)
